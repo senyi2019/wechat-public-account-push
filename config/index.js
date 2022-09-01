@@ -4,21 +4,21 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "",
+    APP_ID: "wxc1f960111a0744dd",
 
     // 公众号APP_SECRET
-    APP_SECRET: "",
+    APP_SECRET: "b819b6ca95b1fd4942c1038512afc2d1",
 
     // 模板消息id
     TEMPLATE_ID: "xxxxxxxxxxxxx-y你懂的,填错狗头打烂VRMpu",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-    CALLBACK_TEMPLATE_ID: "xxxxxxxxxxxxx-y你懂的,填错狗头打烂VRMpu",
+    CALLBACK_TEMPLATE_ID: "cde1jSYOWuQ408NtMI-4C2dDM-EtJJfyQ54NN3VNzCI",
 
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
     // [{
-    //   name: "张三",
-    //   id: "wxafasdasdd-zxfvsdfd"
+    //   name: "鑫龙",
+    //   id: "oPMPH6J1Vj_zNQbyZ4iM2AIXQXuY"
     // },
     // {
     //   name: "李四",
